@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 ##### 1. Clone the Repository
    ```bash
    git clone https://github.com/yourusername/tipCalculator.git
-   cd tip-calculator-javafx
+   cd tipCalculator
    ```
 
 ##### 2. Open the Project in Your IDE
@@ -36,4 +36,4 @@ Ensure you have the following installed on your system:
 - If using Eclipse, ensure JavaFX libraries are added to the build path.
 
 ##### 3. Run the Application
-- Using an IDE, locate the Main.java file and run it.
+- Using an IDE, locate the hello-view.fxml file and run it.
